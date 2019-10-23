@@ -1,0 +1,10 @@
+﻿  stdafx.cpp
+  CReader.cpp
+d:\пользователи\данил\учебные проекты\wavreader\fozilab3\creader.cpp(102): warning C4244: /=: преобразование "float" в "int", возможна потеря данных
+d:\пользователи\данил\учебные проекты\wavreader\fozilab3\creader.cpp(103): warning C4244: *=: преобразование "float" в "int", возможна потеря данных
+d:\пользователи\данил\учебные проекты\wavreader\fozilab3\creader.cpp(171): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+d:\пользователи\данил\учебные проекты\wavreader\fozilab3\creader.cpp(253): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(207): note:  см. объявление "fopen"
+  FOZIlab3.cpp
+  Создание кода...
+  FOZIlab3.vcxproj -> D:\Пользователи\Данил\Учебные проекты\WavReader\Debug\FOZIlab3.exe
